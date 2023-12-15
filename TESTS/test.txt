@@ -2,4 +2,6 @@ test
 modification depuis la branche main
 modification depuis la branche dev
 
+UPDATE USER B
+
 UPDATE USER A
